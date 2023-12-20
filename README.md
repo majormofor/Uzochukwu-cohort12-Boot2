@@ -1,5 +1,1 @@
-This is my second project done with absolute bootstrap during my training as a full stack engineer at Skyline ICT Consult
-
-It contains the following:
-1. Boostrap Card
-2. Bootsrap Grid System
+During my full-stack engineering training at Skyline ICT Consult, I successfully completed my second project, utilizing Bootstrap. The project incorporates a Bootstrap Card and the Bootstrap Grid System.
